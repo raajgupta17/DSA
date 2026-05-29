@@ -4,5 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raajgupta17/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
