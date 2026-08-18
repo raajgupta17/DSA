@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/raajgupta17/DSA/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raajgupta17/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raajgupta17/DSA/tree/master/3783-mirror-distance-of-an-integer) |
