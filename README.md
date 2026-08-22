@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/raajgupta17/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raajgupta17/DSA/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raajgupta17/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raajgupta17/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raajgupta17/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
