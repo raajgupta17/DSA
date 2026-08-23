@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/raajgupta17/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raajgupta17/DSA/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raajgupta17/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raajgupta17/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raajgupta17/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raajgupta17/DSA/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
