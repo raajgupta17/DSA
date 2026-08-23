@@ -30,7 +30,7 @@ public:
         }
         int diff = sum1 - sum2;
         
-        return diff != 9 * (q2-q1) >>1;
+        return diff != (9 * (q2-q1))/ 2;
         
     }
 };
