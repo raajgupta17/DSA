@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/raajgupta17/DSA/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/raajgupta17/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/raajgupta17/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/raajgupta17/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/raajgupta17/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
