@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raajgupta17/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/raajgupta17/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raajgupta17/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raajgupta17/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raajgupta17/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raajgupta17/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
 ## String
