@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/raajgupta17/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raajgupta17/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raajgupta17/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raajgupta17/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/raajgupta17/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/raajgupta17/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raajgupta17/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/raajgupta17/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raajgupta17/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
