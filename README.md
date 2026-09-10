@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raajgupta17/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raajgupta17/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raajgupta17/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raajgupta17/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/raajgupta17/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raajgupta17/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/raajgupta17/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
