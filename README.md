@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raajgupta17/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raajgupta17/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/raajgupta17/DSA/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/raajgupta17/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raajgupta17/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/raajgupta17/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/raajgupta17/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/raajgupta17/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
