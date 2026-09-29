@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raajgupta17/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raajgupta17/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/raajgupta17/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/raajgupta17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raajgupta17/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raajgupta17/DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/raajgupta17/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/raajgupta17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/raajgupta17/DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/raajgupta17/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/raajgupta17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raajgupta17/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
