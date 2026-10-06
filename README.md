@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raajgupta17/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/raajgupta17/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raajgupta17/DSA/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raajgupta17/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/raajgupta17/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raajgupta17/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/raajgupta17/DSA/tree/master/0905-sort-array-by-parity) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raajgupta17/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/raajgupta17/DSA/tree/master/0141-linked-list-cycle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raajgupta17/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/raajgupta17/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
