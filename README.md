@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/raajgupta17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/raajgupta17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raajgupta17/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raajgupta17/DSA/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raajgupta17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
@@ -167,9 +170,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
