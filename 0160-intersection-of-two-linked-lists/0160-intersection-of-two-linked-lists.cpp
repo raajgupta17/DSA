@@ -16,18 +16,16 @@ public:
             if(tempA == NULL){
                 tempA = headB;
             }
-            else {
+            else{
                 tempA = tempA->next;
             }
             if(tempB == NULL){
-                tempB = headA; 
+                tempB = headA;
             }
             else{
                 tempB = tempB->next;
             }
-            
         }
         return tempA;
     }
-
 };
