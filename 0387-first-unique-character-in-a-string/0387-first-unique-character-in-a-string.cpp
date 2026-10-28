@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int freq[26] = {0};
+        int freq[26];
 
         for(int i = 0;i<s.size();i++){
             freq[s[i]-'a']++;
