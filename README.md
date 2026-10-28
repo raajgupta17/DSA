@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raajgupta17/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raajgupta17/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raajgupta17/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/raajgupta17/DSA/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
