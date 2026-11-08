@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raajgupta17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raajgupta17/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raajgupta17/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3457-eat-pizzas](https://github.com/raajgupta17/DSA/tree/master/3457-eat-pizzas) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raajgupta17/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raajgupta17/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3457-eat-pizzas](https://github.com/raajgupta17/DSA/tree/master/3457-eat-pizzas) |
 ## Game Theory
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/raajgupta17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raajgupta17/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raajgupta17/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3457-eat-pizzas](https://github.com/raajgupta17/DSA/tree/master/3457-eat-pizzas) |
 ## Quicksort
 |  |
 | ------- |
