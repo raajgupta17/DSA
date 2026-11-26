@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raajgupta17/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/raajgupta17/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/raajgupta17/DSA/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raajgupta17/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raajgupta17/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/raajgupta17/DSA/tree/master/0110-balanced-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/raajgupta17/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
