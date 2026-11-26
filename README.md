@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raajgupta17/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/raajgupta17/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raajgupta17/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raajgupta17/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raajgupta17/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/raajgupta17/DSA/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raajgupta17/DSA/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
