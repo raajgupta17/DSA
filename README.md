@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/raajgupta17/DSA/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raajgupta17/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/raajgupta17/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raajgupta17/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/raajgupta17/DSA/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/raajgupta17/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raajgupta17/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raajgupta17/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raajgupta17/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
